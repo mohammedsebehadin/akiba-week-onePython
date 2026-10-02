@@ -7,5 +7,7 @@ height=float(input('ur heigh in meter'))
 print("name:",name)
 print("weight:",weight)
 print("height:",height)
-body_max_index=print("your BMI",weight/height*height)
+
+body_max_index=weight/(height*height)
+print("your BMI",body_max_index)
 
