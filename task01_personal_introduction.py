@@ -1,5 +1,5 @@
-fullname= input('fullname ');
-age=input('age');
+fullname= input('enter ur fullname ');
+age=input(' ur age');
 programme=input('favorite programming language')
 goal=input('one programming goal')
 print( "=============\nSTUDENT INFORMATION\n =============")
