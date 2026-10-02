@@ -1,5 +1,5 @@
-# akiba-week-onePython
-i have learn many things python fundamental 
-like about variable by using self introductory mini project and 
-their type Integers,Float,string and other arithmetic function like 
-addition multiplication and other thank u
+▎Akiba — Week One of Python
+
+I’ve learned many Python fundamentals, including variables and data types such as integers, floats, and strings. I also practiced arithmetic operations like addition and multiplication by creating a mini project to introduce myself.
+
+Thank you!
